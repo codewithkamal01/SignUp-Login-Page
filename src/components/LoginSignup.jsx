@@ -1,4 +1,4 @@
-import { act, useState } from "react";
+import { useState } from "react";
 import { useForm } from "react-hook-form";
 import emailpng from "../assets/email.png";
 import passwordpng from "../assets/password.png";
